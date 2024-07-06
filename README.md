@@ -1,2 +1,2 @@
 # prueba-github
-Este es una prueba de github con archivos nuevos
+Este es una prueba de github con nuevos archivos
